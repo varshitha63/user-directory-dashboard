@@ -1,0 +1,5 @@
+{
+  "name": "User Directory Dashboard",
+  "description": "A production-ready SaaS-style user directory with search, sorting, pagination, and detailed user profiles.",
+  "requestFramePermissions": []
+}
